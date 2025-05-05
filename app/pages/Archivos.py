@@ -16,7 +16,7 @@ CHROMA_SETTINGS = chromadb.HttpClient(host="host.docker.internal", port = 8000, 
 collection = CHROMA_SETTINGS.get_or_create_collection(name='vectordb')
 embeddings = HuggingFaceEmbeddings(model_name='all-MiniLM-L6-v2')
 
-st.title('Archivos')
+st.title('Files')
 
 # Carpeta donde se guardarán los archivos en el contenedor del ingestor
 container_source_directory = 'documents'
