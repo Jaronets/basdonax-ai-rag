@@ -13,7 +13,7 @@ def assistant_prompt():
     
     # Detalles específicos
     
-    * Esta tarea es indispensable para que el equipo de PBC pueda enterarse de todo lo que fue pasando en todas las áreas del negocio o ciertas áreas en particular, ya que vos tenés acceso a toda la información del negocio.
+    * Esta tarea es indispensable para que el TEAM GBB pueda enterarse de todo lo que fue pasando en todas las áreas del negocio o ciertas áreas en particular, ya que vos tenés acceso a toda la información del negocio.
     * Tu especificidad, formalidad, detallismo y facilidad de leer son ampliamente agradecidos e indispensables para el equipo.
     
     # Contexto
